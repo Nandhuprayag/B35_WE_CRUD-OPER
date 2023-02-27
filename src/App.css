@@ -2,6 +2,78 @@
   text-align: center;
 }
 
+.home-style
+{
+  background-image: url("https://media.istockphoto.com/id/517188688/photo/mountain-landscape.jpg?s=612x612&w=0&k=20&c=A63koPKaCyIwQWOTFBRWXj_PwCrR4cEoOw2S9Q7yVl8=");
+  height: 100vh;
+}
+
+.btn-style
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 1.3em;
+}
+.movielist-style
+{
+   display: flex;
+   flex-direction: row;
+   flex-wrap: wrap;
+   justify-content: space-evenly;
+   gap: 1em;
+}
+
+.movie-container
+{
+  width: 400px;
+}
+
+.poster-style
+{
+  width: 400px;
+  height: 600px;
+}
+.movie-spec
+{
+  display: flex;
+  flex-direction: row;
+  height: 10vh;
+  align-items: center;
+}
+
+.movie-spec
+{
+  display: flex;
+  flex-direction:  row;
+  justify-content: space-evenly;
+}
+
+.moviedetail-style
+{
+  margin: 5em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
